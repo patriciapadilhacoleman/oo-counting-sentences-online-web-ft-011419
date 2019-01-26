@@ -4,6 +4,8 @@ class String
 
   def sentence?
     
+    if 
+    
   end
 
   def question?
